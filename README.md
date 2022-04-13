@@ -32,7 +32,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/_ariutomo/"><img src="image/icons/instagram.png" width="32"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/benymox/"><img src="image/icons/facebook.png" width="32"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://https://www.linkedin.com/in/robertarie55/"><img src="image/icons/linkedin.png" width="32"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/robertarie55/"><img src="image/icons/linkedin.png" width="32"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:robert.unix98@gmail.com"><img src="image/icons/gmail.png" width="32"></a>
 
 ### 📕 Latest Posts
