@@ -6,7 +6,7 @@
 
 ![Unity 2D Experience](https://img.shields.io/badge/Unity%202D-4%20years%20experience-orange?style=flat-square&logo=unity&labelColor=blue) 
 ![Unity 3D Experience](https://img.shields.io/badge/Unity%203D-4%20months%20experience-orange?style=flat-square&logo=unity&labelColor=blue) 
-![Magica Voxel Experience](https://img.shields.io/badge/Magica%20Voxel-4%20months%20experience-green?style=flat-square&logo=data:image/icons/magicavoxel.png)
+![Magica Voxel Experience](https://img.shields.io/badge/Magica%20Voxel-4%20months%20experience-green?style=flat-square&logo=blender)
 
 ### Programming Language Experience
 
@@ -30,10 +30,10 @@
 
 ### Connect with me:
 
-[![instagram](image/icons/instagram.png)](https://www.instagram.com/_ariutomo/)
-[![facebook](image/icons/facebook.png)](https://www.facebook.com/benymox/)
-[![linkedin](image/icons/linkedin.png)](https://https://www.linkedin.com/in/robertarie55/)
-[![gmail](image/icons/gmail.png)](mailto:robert.unix98@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/_ariutomo/"><img src="image/icons/instagram.png" width="32"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/benymox/"><img src="image/icons/facebook.png" width="32"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://https://www.linkedin.com/in/robertarie55/"><img src="image/icons/linkedin.png" width="32"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:robert.unix98@gmail.com"><img src="image/icons/gmail.png" width="32"></a>
 
 ### 📕 Latest Posts
 
