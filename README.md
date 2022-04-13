@@ -26,7 +26,7 @@
 - 👯 I’m looking to collaborate with other game programmer
 - 🥅 2022 Goals: Learn more about Unity Shader
 - ⚡ Fun fact: I love to play Genshin Impact
-- 😻 Want to see my Cat? [Simba](https://penguin.github.io) and [Mochi](https://penguin.github.io)
+- 😻 Want to see my Cat? [Simba](image/simba.png) <!--and [Mochi](https://penguin.github.io)-->
 
 ### Connect with me:
 
