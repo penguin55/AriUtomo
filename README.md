@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Ari Utomo👋</h1>
 
 ![Update Date](https://img.shields.io/badge/-Updated%20on%20April%2013%2C%202022-brightgreen) <br>
+![](https://komarev.com/ghpvc/?username=penguin55)
 
 ### Tool I Use
 
