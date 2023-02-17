@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Ari Utomo👋</h1>
 
-![Update Date](https://img.shields.io/badge/-Updated%20on%20November%2015%2C%202022-brightgreen) <br>
+![Update Date](https://img.shields.io/badge/-Updated%20on%20February%2017%2C%202023-brightgreen) <br>
 ![](https://komarev.com/ghpvc/?username=penguin55)
 
 ### Tool I Use
 
-![Unity 2D Experience](https://img.shields.io/badge/Unity%202D-4%20years%20experience-orange?style=flat-square&logo=unity&labelColor=blue) 
-![Unity 3D Experience](https://img.shields.io/badge/Unity%203D-4%20months%20experience-orange?style=flat-square&logo=unity&labelColor=blue) 
+![Unity 2D Experience](https://img.shields.io/badge/Unity%202D-5%20years%20experience-orange?style=flat-square&logo=unity&labelColor=blue) 
+![Unity 3D Experience](https://img.shields.io/badge/Unity%203D-7%20months%20experience-orange?style=flat-square&logo=unity&labelColor=blue) 
 ![Magica Voxel Experience](https://img.shields.io/badge/Magica%20Voxel-4%20months%20experience-green?style=flat-square&logo=blender)
 
 ### Programming Language Experience
@@ -25,7 +25,7 @@
 - 🔭 Check out my current work [Faerie Afterlight](https://store.steampowered.com/app/1415280/Faerie_Afterlight/) `Don't forget to Wishlist! XD`
 - 🌱 I’m currently learning Shaderlab
 - 👯 I’m looking to collaborate with other game programmer
-- 🥅 2022 Goals: Learn more about Unity Shader
+- 🥅 2023 Goals: Learn more about Unreal
 - ⚡ Fun fact: I love to play Genshin Impact
 - 😻 Want to see my Cat? [Simba](image/simba.png) <!--and [Mochi](https://penguin.github.io)-->
 
