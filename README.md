@@ -1,31 +1,33 @@
 <h1 align="center">Hi there, I'm Ari Utomo👋</h1>
 
-![Update Date](https://img.shields.io/badge/-Updated%20on%20February%2017%2C%202023-brightgreen) <br>
+![Update Date](https://img.shields.io/badge/-Updated%20on%20April%2021%2C%202023-brightgreen) <br>
 ![](https://komarev.com/ghpvc/?username=penguin55)
 
+Click this to see my works -->> [Ari Utomo](https://penguin55.github.io/)
+
+<!---
 ### Tool I Use
 
 ![Unity 2D Experience](https://img.shields.io/badge/Unity%202D-5%20years%20experience-orange?style=flat-square&logo=unity&labelColor=blue) 
 ![Unity 3D Experience](https://img.shields.io/badge/Unity%203D-7%20months%20experience-orange?style=flat-square&logo=unity&labelColor=blue) 
 ![Magica Voxel Experience](https://img.shields.io/badge/Magica%20Voxel-4%20months%20experience-green?style=flat-square&logo=blender)
+-->
 
 ### Programming Language Experience
 
-![Csharp Experience](https://img.shields.io/badge/C%20Sharp-Advance-orange?style=flat-square&logo=csharp) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Csharp is my main programming language for developing games with Unity. I have 4 years experience of using Csharp for developing any games and still want to explore more about csharp deeper.
-
 ![Java](https://img.shields.io/badge/Java-Advance-orange?style=flat-square&logo=java) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java is the second language I use for my lectures. I am learning this language for the purpose of learning and making android apps. This language is similar to csharp so it is not difficult to learn it.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java is my main programming language that I focused for now. I am learning this language for the purpose of learning and making android apps. This language is similar to csharp so it is not difficult to learn it.
 
-![Unity Shaderlab Experience](https://img.shields.io/badge/Shaderlab-Learn-9cf?style=flat-square&logo=unity) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shaderlab is the language I'm currently learning for shader creation in Unity. I want to focus more on learning this language.
+![Csharp Experience](https://img.shields.io/badge/C%20Sharp-Advance-orange?style=flat-square&logo=csharp) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Csharp is my 2nd language for developing games with Unity. I have 4 years experience of using Csharp for developing any games and still want to explore more about csharp deeper.
 
-### I'm a Student and Game Programmer!!
 
-- 🔭 Check out my current work [Faerie Afterlight](https://store.steampowered.com/app/1415280/Faerie_Afterlight/) `Don't forget to Wishlist! XD`
-- 🌱 I’m currently learning Shaderlab
-- 👯 I’m looking to collaborate with other game programmer
-- 🥅 2023 Goals: Learn more about Unreal
+### I'm a Student and a Programmer!!
+
+- 🔭 Check out my last work [Faerie Afterlight](https://store.steampowered.com/app/1415280/Faerie_Afterlight/) `Don't forget to Wishlist! XD`
+- 🌱 I’m currently learning Java Native
+- 👯 I’m looking to collaborate with other programmer
+- 🥅 2023 Goals: Learn more about Java Native
 - ⚡ Fun fact: I love to play Genshin Impact
 - 😻 Want to see my Cat? [Simba](image/simba.png) <!--and [Mochi](https://penguin.github.io)-->
 
